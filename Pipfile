@@ -8,6 +8,7 @@ jupyter = "*"
 numpy = "*"
 pandas = "*"
 line-profiler = "*"
+memory-profiler = "*"
 
 [dev-packages]
 
