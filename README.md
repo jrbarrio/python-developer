@@ -7,4 +7,5 @@ pip install pipenv
 pipenv install jupyter
 pipenv install numpy
 pipenv install pandas
+pipenv install line_profiler
 ```
