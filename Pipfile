@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyter = "*"
 numpy = "*"
 pandas = "*"
 line-profiler = "*"
 memory-profiler = "*"
+jupyter = "*"
 
 [dev-packages]
 
