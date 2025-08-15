@@ -9,6 +9,7 @@ pandas = "*"
 line-profiler = "*"
 memory-profiler = "*"
 jupyter = "*"
+typing = "*"
 
 [dev-packages]
 
