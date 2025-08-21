@@ -11,6 +11,7 @@ memory-profiler = "*"
 jupyter = "*"
 typing = "*"
 pyment = "*"
+tox = "*"
 
 [dev-packages]
 
