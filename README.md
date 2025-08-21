@@ -12,4 +12,5 @@ pipenv install memory_profiler
 pipenv install typing
 pipenv install pyment
 pipenv install tox
+pipenv install flake8
 ```
