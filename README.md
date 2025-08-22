@@ -13,4 +13,5 @@ pipenv install typing
 pipenv install pyment
 pipenv install tox
 pipenv install flake8
+pipenv install cookiecutter
 ```
