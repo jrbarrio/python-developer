@@ -15,4 +15,5 @@ pipenv install tox
 pipenv install flake8
 pipenv install cookiecutter
 pipenv install bumpversion
+pipenv install scrapy
 ```

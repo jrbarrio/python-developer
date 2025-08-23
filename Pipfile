@@ -15,6 +15,7 @@ tox = "*"
 flake8 = "*"
 cookiecutter = "*"
 bumpversion = "*"
+scrapy = "*"
 
 [dev-packages]
 
