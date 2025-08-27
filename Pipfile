@@ -16,6 +16,7 @@ flake8 = "*"
 cookiecutter = "*"
 bumpversion = "*"
 scrapy = "*"
+requests = "*"
 
 [dev-packages]
 
