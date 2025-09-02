@@ -17,6 +17,7 @@ cookiecutter = "*"
 bumpversion = "*"
 scrapy = "*"
 requests = "*"
+pytest = "*"
 
 [dev-packages]
 

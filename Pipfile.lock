@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e8c488ee516d1eff2e17c6935cd43aa15cc8c230529241c801633c53dab0e9a4"
+            "sha256": "f71986a22135798842a14d9378613e76a03904673fbba68bd1e46994749f453d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -585,6 +585,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==24.7.2"
+        },
+        "iniconfig": {
+            "hashes": [
+                "sha256:3abbd2e30b36733fee78f9c7f7308f2d0050e88f0087fd25c2645f63c773e1c7",
+                "sha256:9deba5723312380e77435581c6bf4935c94cbfab9b1ed33ef8d238ea168eb760"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==2.1.0"
         },
         "ipykernel": {
             "hashes": [
@@ -1436,6 +1444,15 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==1.9.1"
+        },
+        "pytest": {
+            "hashes": [
+                "sha256:539c70ba6fcead8e78eebbf1115e8b589e7565830d7d006a8723f19ac8a0afb7",
+                "sha256:7c67fd69174877359ed9371ec3af8a3d2b04741818c51e5e99cc1742251fa93c"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.9'",
+            "version": "==8.4.1"
         },
         "python-dateutil": {
             "hashes": [
