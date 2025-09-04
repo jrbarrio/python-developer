@@ -18,4 +18,5 @@ pipenv install bumpversion
 pipenv install scrapy
 pipenv install requests
 pipenv install pytest
+pipenv install pytest-benchmark
 ```

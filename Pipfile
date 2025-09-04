@@ -18,6 +18,7 @@ bumpversion = "*"
 scrapy = "*"
 requests = "*"
 pytest = "*"
+pytest-benchmark = "*"
 
 [dev-packages]
 
